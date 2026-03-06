@@ -1,0 +1,23 @@
+# Secrets & credentials
+.env
+.streamlit/secrets.toml
+credentials.json
+token.json
+
+# Environnement virtuel
+env/
+venv/
+.venv/
+.env
+
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers système Mac
+.DS_Store
+
+# Logs
+*.log

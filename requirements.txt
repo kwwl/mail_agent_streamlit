@@ -1,0 +1,14 @@
+groq
+python-dotenv
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+google-auth
+gspread
+gspread-formatting
+streamlit
+plotly
+pandas
+streamlit-oauth
+requests-oauthlib
+openpyxl

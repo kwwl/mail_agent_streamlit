@@ -1,0 +1,6 @@
+Bonjour, j'ai rencontré un bug sur le logiciel de gestion de projet
+que nous utilisons actuellement. Lorsque je tente de sauvegarder un
+projet, le système me signale une erreur et ne permet pas la
+sauvegarde. Cela commence à avoir un impact sur mon travail et je
+souhaiterais que vous puissiez examiner ce problème le plus rapidement
+possible.
